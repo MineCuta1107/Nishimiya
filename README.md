@@ -5,7 +5,7 @@ A basic Discord Bots
 [![Website]](https://nishimiya.glitch.me/)
 
 ### Please Note
-•  Please make sure you run the help command as `Mine Cuta Support` requires a certain channel
+•  Please make sure you run the help command as `Nishimiya` requires a certain channel
 
 ### Monitoring
 <a href="http://81.169.230.19:19999/#menu_system;theme=slate">
