@@ -51,4 +51,5 @@ if (message.content.startsWith('!kick')) {
   }
 });
 
+//Your bot token
 client.login('token');
