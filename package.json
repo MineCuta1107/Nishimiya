@@ -1,7 +1,7 @@
 {
   "name": "Your Bots Disocrd Name",
   "version": "1.0.0",
-  "description": "Your Bots Discord",
+  "description": "Your Bots Discord Description",
   "main": "index.js",
   "engines": {
     "node": "10.x",
