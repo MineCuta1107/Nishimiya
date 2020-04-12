@@ -2,7 +2,7 @@
 
 ### Nishimiya Bots
 A basic Discord Bots 
-[![Website]](https://nishimiya.glitch.me/)
+[![Website]](https://nishimiya.minecuta.com/)
 
 ### Please Note
 •  Please make sure you run the help command as `Nishimiya` requires a certain channel
