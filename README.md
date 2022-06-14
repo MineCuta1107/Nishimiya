@@ -1,4 +1,4 @@
-# Nishimiya
+# Nishimiya discord bot
 Contribute to MineCuta1107/Nishimiya development 
 
 [![Build Passing](https://img.shields.io/badge/build-Passing%20-green.svg?style=flat)](https://nishimiya.minecuta.com) [![Status Online](https://img.shields.io/badge/status-Online%20-brightgreen.svg?style=flat)](https://stats.uptimerobot.com/D83mDfBoDz)![Build With](https://forthebadge.com/images/badges/built-with-love.svg)[![Bot Code Library](https://img.shields.io/badge/code-discord.js-yellowgreen.svg)](https://discord.js.org/#/) 
